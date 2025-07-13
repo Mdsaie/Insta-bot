@@ -1,5 +1,5 @@
-aiohttp==3.8.1
-aiogram==2.25.1
-requests
-wheel
-setuptools
+pytelegrambotapi>=4.27.0
+beautifulsoup4>=4.13.4
+requests>=2.32.4
+fake-useragent>=2.2.0
+urllib3>=2.5.0
